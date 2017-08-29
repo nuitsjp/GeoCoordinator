@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>GeoCoordinator</id>
+    <title>GeoCoordinator</title>
+    <version>1.0.0</version>
+    <authors>nuits.jp</authors>
+    <owners>nuits.jp</owners>
+    <licenseUrl>https://github.com/nuitsjp/GeoCoordinator/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/nuitsjp/GeoCoordinator</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extension library for GeoCoordinateWatcher.</description>
+    <releaseNotes>New release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>GeoCoordinator GeoCoordinateWatcher</tags>
+  </metadata>
+  <files>
+		<file src="bin\Release\GeoCoordinator.dll" target="lib\net45" />
+		<file src="bin\Release\GeoCoordinator.dll" target="lib\net46" />
+    <file src="bin\Release\GeoCoordinator.dll" target="lib\net47" />
+  </files>
+</package>
